@@ -30,5 +30,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # Simple project to learn VueJS
 
 features: list, create and delete
+
 preview:
 ![image_preview](https://raw.githubusercontent.com/gustavoripardo/vue-users/main/public/vue-user.png)
